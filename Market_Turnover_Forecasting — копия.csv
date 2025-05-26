@@ -1,0 +1,411 @@
+=== Categories ===
+category_id,category_name
+1,Canned Goods
+2,Dairy
+3,Beverages
+4,Vegetables
+5,Seafood
+6,Bakery
+7,Seafood
+8,Meat
+9,Seafood
+10,Meat
+11,Snacks
+12,Fruits
+13,Vegetables
+14,Canned Goods
+15,Seafood
+16,Frozen Foods
+17,Beverages
+18,Snacks
+19,Canned Goods
+20,Bakery
+21,Vegetables
+22,Fruits
+23,Beverages
+24,Beverages
+25,Bakery
+26,Beverages
+27,Bakery
+28,Seafood
+29,Snacks
+30,Snacks
+31,Meat
+32,Frozen Foods
+33,Bakery
+34,Meat
+35,Fruits
+36,Meat
+37,Snacks
+38,Seafood
+39,Fruits
+40,Snacks
+41,Dairy
+42,Canned Goods
+43,Bakery
+44,Snacks
+45,Bakery
+46,Canned Goods
+47,Fruits
+48,Beverages
+49,Seafood
+50,Frozen Foods
+51,Meat
+52,Canned Goods
+53,Beverages
+54,Bakery
+55,Frozen Foods
+56,Snacks
+57,Seafood
+58,Snacks
+59,Beverages
+60,Fruits
+61,Seafood
+62,Frozen Foods
+63,Snacks
+64,Seafood
+65,Frozen Foods
+66,Vegetables
+67,Bakery
+68,Meat
+69,Seafood
+70,Frozen Foods
+71,Beverages
+72,Bakery
+73,Fruits
+74,Fruits
+75,Dairy
+76,Beverages
+77,Frozen Foods
+78,Fruits
+79,Beverages
+80,Fruits
+81,Fruits
+82,Canned Goods
+83,Bakery
+84,Dairy
+85,Fruits
+86,Vegetables
+87,Vegetables
+88,Seafood
+89,Snacks
+90,Frozen Foods
+91,Vegetables
+92,Dairy
+93,Bakery
+94,Bakery
+95,Frozen Foods
+96,Vegetables
+97,Fruits
+98,Frozen Foods
+99,Vegetables
+100,Dairy
+
+=== Distribution_Centers ===
+dc_id,dc_name,region
+1,DC Kyiv,North
+2,DC DC1,East
+3,DC Kharkiv,North
+4,DC Lviv,South
+5,DC Kyiv,East
+6,DC Lviv,West
+7,DC Kyiv,East
+8,DC DC1,North
+9,DC Kharkiv,West
+10,DC DC1,West
+11,DC DC2,East
+12,DC Kyiv,South
+13,DC Kharkiv,West
+14,DC Lviv,East
+15,DC Kharkiv,East
+16,DC Dnipro,West
+17,DC Odesa,North
+18,DC Odesa,East
+19,DC Kharkiv,East
+20,DC Odesa,North
+21,DC Kharkiv,West
+22,DC DC1,East
+23,DC Odesa,East
+24,DC Odesa,East
+25,DC Kyiv,West
+26,DC Odesa,East
+27,DC Kharkiv,North
+28,DC DC2,West
+29,DC Odesa,South
+30,DC Kharkiv,East
+31,DC Odesa,West
+32,DC Lviv,North
+33,DC Kyiv,East
+34,DC Dnipro,South
+35,DC Kyiv,East
+36,DC DC1,West
+37,DC Kharkiv,South
+38,DC DC1,East
+39,DC Kharkiv,West
+40,DC Lviv,East
+41,DC DC1,North
+42,DC DC2,South
+43,DC Kyiv,North
+44,DC DC2,North
+45,DC Dnipro,North
+46,DC Kyiv,North
+47,DC DC1,East
+48,DC Odesa,South
+49,DC Dnipro,North
+50,DC DC2,South
+51,DC DC1,East
+52,DC Kyiv,West
+53,DC Lviv,West
+54,DC Dnipro,South
+55,DC Lviv,East
+56,DC Lviv,East
+57,DC Lviv,South
+58,DC DC2,West
+59,DC DC2,South
+60,DC DC2,South
+61,DC Dnipro,East
+62,DC Kyiv,West
+63,DC Kyiv,East
+64,DC DC1,South
+65,DC Odesa,East
+66,DC Odesa,North
+67,DC Kyiv,North
+68,DC Kharkiv,East
+69,DC DC2,West
+70,DC Odesa,West
+71,DC Odesa,South
+72,DC Lviv,North
+73,DC Kyiv,North
+74,DC Dnipro,North
+75,DC DC2,North
+76,DC Odesa,South
+77,DC Dnipro,West
+78,DC Odesa,West
+79,DC Kharkiv,South
+80,DC DC2,East
+81,DC Kyiv,North
+82,DC Odesa,West
+83,DC Dnipro,West
+84,DC Kyiv,South
+85,DC Odesa,East
+86,DC DC2,East
+87,DC Lviv,East
+88,DC Kyiv,South
+89,DC Odesa,East
+90,DC DC1,South
+91,DC Kyiv,North
+92,DC Dnipro,East
+93,DC Lviv,South
+94,DC Lviv,North
+95,DC Dnipro,West
+96,DC DC1,West
+97,DC Kyiv,East
+98,DC Odesa,North
+99,DC DC2,West
+100,DC Dnipro,North
+
+=== SKU ===
+sku_id,sku_name,category_id,base_price
+SKU0001,Milk 1L,7,81.68
+SKU0002,Bread White,9,66.06
+SKU0003,Coke 2L,10,5.7
+SKU0004,Beef Steak,1,88.55
+SKU0005,Apple 1kg,9,65.05
+SKU0006,Frozen Pizza,8,28.29
+SKU0007,Chocolate Bar,2,29.44
+SKU0008,Chicken 500g,2,89.42
+SKU0009,Milk 1L,8,99.17
+SKU0010,Frozen Pizza,2,42.69
+SKU0011,Frozen Pizza,3,46.88
+SKU0012,Frozen Pizza,3,5.7
+SKU0013,Frozen Pizza,10,53.58
+SKU0014,Coke 2L,4,47.44
+SKU0015,Apple 1kg,2,35.03
+SKU0016,Salmon Fillet,4,43.16
+SKU0017,Chicken 500g,6,78.62
+SKU0018,Salmon Fillet,10,65.9
+SKU0019,Chicken 500g,6,97.22
+SKU0020,Chicken 500g,9,98.61
+SKU0021,Chocolate Bar,7,58.23
+SKU0022,Beef Steak,10,76.14
+SKU0023,Apple 1kg,7,58.14
+SKU0024,Frozen Pizza,5,61.75
+SKU0025,Milk 1L,5,60.11
+SKU0026,Frozen Pizza,10,58.63
+SKU0027,Salmon Fillet,3,72.88
+SKU0028,Chocolate Bar,10,12.63
+SKU0029,Apple 1kg,4,11.4
+SKU0030,Apple 1kg,5,50.32
+SKU0031,Chocolate Bar,9,63.38
+SKU0032,Chicken 500g,10,59.14
+SKU0033,Coke 2L,8,34.03
+SKU0034,Coke 2L,3,46.51
+SKU0035,Apple 1kg,8,55.19
+SKU0036,Bread White,5,32.68
+SKU0037,Frozen Pizza,8,45.65
+SKU0038,Bread White,5,52.26
+SKU0039,Beef Steak,9,66.9
+SKU0040,Coke 2L,1,37.51
+SKU0041,Bread White,5,15.8
+SKU0042,Frozen Pizza,10,71.59
+SKU0043,Canned Beans,10,70.31
+SKU0044,Canned Beans,8,10.45
+SKU0045,Bread White,3,9.99
+SKU0046,Frozen Pizza,4,73.74
+SKU0047,Bread White,9,85.14
+SKU0048,Bread White,4,82.3
+SKU0049,Salmon Fillet,9,11.54
+SKU0050,Apple 1kg,10,36.98
+SKU0051,Coke 2L,4,48.75
+SKU0052,Chocolate Bar,1,9.15
+SKU0053,Chocolate Bar,4,82.15
+SKU0054,Bread White,4,5.14
+SKU0055,Salmon Fillet,5,60.5
+SKU0056,Milk 1L,9,61.02
+SKU0057,Milk 1L,8,27.93
+SKU0058,Apple 1kg,7,70.26
+SKU0059,Apple 1kg,6,84.77
+SKU0060,Beef Steak,4,40.86
+SKU0061,Chocolate Bar,3,8.25
+SKU0062,Salmon Fillet,8,56.49
+SKU0063,Milk 1L,10,48.05
+SKU0064,Bread White,4,18.88
+SKU0065,Chicken 500g,8,65.83
+SKU0066,Salmon Fillet,1,73.47
+SKU0067,Chicken 500g,2,41.67
+SKU0068,Salmon Fillet,7,95.09
+SKU0069,Chicken 500g,6,72.01
+SKU0070,Chocolate Bar,4,74.28
+SKU0071,Canned Beans,8,36.56
+SKU0072,Salmon Fillet,4,80.11
+SKU0073,Chocolate Bar,1,43.34
+SKU0074,Canned Beans,5,39.86
+SKU0075,Canned Beans,3,55.95
+SKU0076,Frozen Pizza,8,90.78
+SKU0077,Chicken 500g,6,72.42
+SKU0078,Bread White,8,76.26
+SKU0079,Apple 1kg,5,52.27
+SKU0080,Milk 1L,7,41.39
+SKU0081,Chocolate Bar,4,66.38
+SKU0082,Bread White,1,99.98
+SKU0083,Canned Beans,8,30.06
+SKU0084,Chocolate Bar,3,23.07
+SKU0085,Salmon Fillet,10,94.95
+SKU0086,Milk 1L,8,89.92
+SKU0087,Apple 1kg,6,56.36
+SKU0088,Beef Steak,2,25.88
+SKU0089,Frozen Pizza,8,21.2
+SKU0090,Chocolate Bar,2,20.15
+SKU0091,Bread White,8,82.11
+SKU0092,Bread White,3,82.37
+SKU0093,Apple 1kg,3,90.18
+SKU0094,Salmon Fillet,4,10.29
+SKU0095,Frozen Pizza,1,55.52
+SKU0096,Salmon Fillet,9,73.37
+SKU0097,Apple 1kg,8,13.29
+SKU0098,Canned Beans,6,17.28
+SKU0099,Salmon Fillet,4,39.89
+SKU0100,Chicken 500g,1,61.9
+
+=== Sales ===
+sales_date,sku_id,dc_id,sales_count,weight,promo
+2023-11-23,SKU0065,4,883,26.28,True
+2024-10-25,SKU0069,85,415,30.48,False
+2024-09-29,SKU0052,90,951,47.74,False
+2024-02-13,SKU0079,23,707,7.39,False
+2023-08-02,SKU0008,55,451,29.49,False
+2023-03-08,SKU0005,70,83,7.71,False
+2023-03-18,SKU0074,69,59,5.81,False
+2023-03-02,SKU0046,74,61,8.3,False
+2024-11-22,SKU0027,33,56,32.41,False
+2025-02-21,SKU0036,49,58,43.47,False
+2023-06-24,SKU0008,65,400,48.95,False
+2023-03-04,SKU0041,46,682,1.97,False
+2024-08-25,SKU0045,16,447,39.71,False
+2023-07-25,SKU0092,10,538,2.85,False
+2024-06-21,SKU0017,70,90,49.73,False
+2024-03-19,SKU0096,20,447,21.24,True
+2024-12-07,SKU0099,76,118,2.75,True
+2024-03-20,SKU0037,98,397,8.49,False
+2023-03-02,SKU0084,58,140,17.69,True
+2024-01-26,SKU0062,6,948,48.46,False
+2024-07-24,SKU0035,97,6,32.97,True
+2023-02-01,SKU0066,57,580,45.87,True
+2023-06-29,SKU0049,11,690,6.83,False
+2024-06-11,SKU0041,42,981,11.84,False
+2023-04-03,SKU0050,56,663,40.82,False
+2023-10-01,SKU0032,58,874,41.68,False
+2025-02-27,SKU0075,68,199,38.99,False
+2023-10-10,SKU0054,6,270,15.14,False
+2024-04-10,SKU0092,76,537,25.24,True
+2023-12-09,SKU0080,57,635,44.82,False
+2024-12-05,SKU0033,48,496,20.48,False
+2023-10-27,SKU0016,86,780,27.97,True
+2024-04-20,SKU0012,66,892,21.6,False
+2024-12-02,SKU0013,2,420,41.82,False
+2023-06-19,SKU0100,18,575,9.01,False
+2024-03-28,SKU0041,10,598,23.74,False
+2023-10-11,SKU0051,98,423,4.54,False
+2024-01-23,SKU0046,8,743,28.92,False
+2024-12-09,SKU0028,90,135,42.99,False
+2023-05-21,SKU0017,50,271,31.93,False
+2024-02-22,SKU0014,57,281,11.71,False
+2023-10-20,SKU0094,4,903,38.64,False
+2023-07-23,SKU0065,76,921,37.57,False
+2024-03-14,SKU0033,76,659,36.67,False
+2023-10-30,SKU0006,31,145,33.39,False
+2023-10-30,SKU0054,10,562,18.69,False
+2024-01-20,SKU0025,28,421,13.29,False
+2024-03-18,SKU0077,19,860,3.42,True
+2023-07-02,SKU0096,56,960,1.07,False
+2025-02-17,SKU0015,89,708,19.41,False
+2024-11-19,SKU0015,18,337,35.39,False
+2023-07-07,SKU0013,16,419,40.52,False
+2023-01-11,SKU0031,95,40,32.93,False
+2024-07-12,SKU0031,18,926,10.16,False
+2024-03-28,SKU0046,81,143,49.8,True
+2024-02-03,SKU0095,18,952,47.15,False
+2025-02-26,SKU0086,3,910,21.53,False
+2023-01-18,SKU0099,35,541,29.84,False
+2025-01-20,SKU0091,62,436,6.45,False
+2023-10-19,SKU0028,6,140,38.46,False
+2024-12-31,SKU0054,57,100,48.54,False
+2024-10-24,SKU0095,84,972,35.16,False
+2023-11-16,SKU0012,54,60,49.54,False
+2024-08-01,SKU0003,79,559,12.22,False
+2024-08-25,SKU0073,50,222,37.4,False
+2024-05-15,SKU0081,39,60,28.14,True
+2024-09-25,SKU0050,47,69,11.95,True
+2024-09-15,SKU0028,51,869,8.45,True
+2023-12-27,SKU0098,71,43,14.02,False
+2023-03-22,SKU0051,8,630,22.72,True
+2023-08-11,SKU0066,99,796,9.78,False
+2024-04-14,SKU0098,30,585,30.37,True
+2024-01-04,SKU0001,53,433,22.86,False
+2023-10-02,SKU0060,91,842,26.56,True
+2024-07-20,SKU0047,76,996,5.87,False
+2024-09-17,SKU0013,91,988,11.0,False
+2024-10-21,SKU0021,52,647,22.37,False
+2024-08-11,SKU0067,80,289,33.25,False
+2024-11-27,SKU0006,54,526,34.57,False
+2024-05-10,SKU0090,96,113,46.31,False
+2023-01-30,SKU0010,89,6,26.11,False
+2025-01-01,SKU0034,59,672,3.33,True
+2023-02-19,SKU0063,53,625,17.34,False
+2024-01-06,SKU0040,69,591,10.62,False
+2025-02-05,SKU0008,7,105,46.61,True
+2024-03-02,SKU0045,11,772,5.0,False
+2023-09-17,SKU0078,23,13,48.99,True
+2023-12-16,SKU0052,49,826,9.71,True
+2023-12-30,SKU0041,20,817,10.34,False
+2024-11-27,SKU0042,16,689,13.16,False
+2023-10-04,SKU0057,9,660,49.81,False
+2024-04-14,SKU0090,99,273,15.19,False
+2024-10-23,SKU0021,98,83,22.22,False
+2023-10-16,SKU0064,61,802,10.44,False
+2024-11-01,SKU0084,58,161,12.86,False
+2024-02-02,SKU0061,68,608,9.17,False
+2023-11-24,SKU0021,15,279,49.02,False
+2023-01-18,SKU0069,19,48,27.44,False
+2023-05-20,SKU0032,72,528,37.91,True
+2023-08-31,SKU0094,88,36,34.81,True
